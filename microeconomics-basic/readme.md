@@ -16,8 +16,8 @@
 予定と記録
 ----
 
-2. 第2回 8月後半??
-1. [第1回](https://github.com/imachange/reading-club/blob/master/microeconomics-basic/1st.md)
+1. 第2回 8月後半??
+20. [第1回](https://github.com/imachange/reading-club/blob/master/microeconomics-basic/1st.md)
 
 動機　なぜ、経済学を勉強したいか。
 ----

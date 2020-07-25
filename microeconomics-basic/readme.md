@@ -13,12 +13,11 @@
 - [Google Books](https://books.google.co.jp/books?id=TM0kDwAAQBAJ&lpg=PA1&dq=%E3%83%AC%E3%83%B4%E3%82%A3%E3%83%83%E3%83%88%E3%80%80%E3%83%9F%E3%82%AF%E3%83%AD%E7%B5%8C%E6%B8%88%E5%AD%A6&hl=ja&pg=PT2#v=onepage&q&f=false)
 - 公式：[レヴィット ミクロ経済学 基礎編 | 東洋経済STORE](https://str.toyokeizai.net/books/9784492314951/)
 
-資料
+予定と記録
 ----
 
-1. 第1回
-  - [第1部第2章](https://github.com/imachange/reading-club/blob/master/microeconomics-basic/handout/1-2ai.md)
-  - [第1部第1章](https://github.com/imachange/reading-club/blob/master/microeconomics-basic/handout/1-1ai.md)
+2. 第2回 8月後半??
+1. [第1回](https://github.com/imachange/reading-club/blob/master/microeconomics-basic/1st.md)
 
 動機　なぜ、経済学を勉強したいか。
 ----
